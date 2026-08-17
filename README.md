@@ -73,7 +73,7 @@ remain proprietary.
 
 ```text
 ├── data/
-│   └── templates.ts          # 40+ curated project cut lists (real-world dimensions)
+│   └── templates.ts          # 40 curated project cut lists (real-world dimensions)
 ├── src/
 │   └── utils/
 │       └── fractionUtils.ts  # Precision fraction ↔ float conversion logic
@@ -114,6 +114,7 @@ verified cut list, an SVG exploded-view diagram, and an optimized layout.
 - [48″ Bathroom Vanity Base](https://www.freecutlist.app/templates/bathroom-vanity-48.html)
 - [Closet Organizer Tower](https://www.freecutlist.app/templates/closet-organizer-tower.html)
 - [Pantry Pull-Out Trays](https://www.freecutlist.app/templates/pantry-pullout-drawers.html)
+- [Standard Drawer Box](https://www.freecutlist.app/templates/standard-drawer-box.html)
 - [Hidden Cat Litter Cabinet](https://www.freecutlist.app/templates/cat-litter-cabinet.html)
 - [Mobile Kitchen Island](https://www.freecutlist.app/templates/mobile-kitchen-island.html)
 - [72″ Floating TV Stand](https://www.freecutlist.app/templates/modern-floating-tv-stand.html)
@@ -159,7 +160,7 @@ verified cut list, an SVG exploded-view diagram, and an optimized layout.
 - [Sim Racing Cockpit (MDF)](https://www.freecutlist.app/templates/sim-racing-cockpit.html)
 - [Langstroth 10-Frame Beehive](https://www.freecutlist.app/templates/langstroth-beehive.html)
 
-➕ **New templates ship monthly** — the live [Template Gallery](https://www.freecutlist.app/templates/) always lists the complete, up-to-date set of 40.
+✅ All 40 templates listed above. New projects ship monthly — see the live [Template Gallery](https://www.freecutlist.app/templates/) for the latest.
 
 </details>
 
