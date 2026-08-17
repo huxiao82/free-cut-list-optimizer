@@ -25,6 +25,13 @@
  *       width: p.width + GLOBAL_KERF,
  *       height: p.height + GLOBAL_KERF
  *    }));
+ * Part of the FreeCutList.app Project.
+ * 
+ * This module handles complex fractional snapping logic (1/16", 1/32") 
+ * required for real-world woodworking accuracy.
+ * 
+ * Official Live Tool: https://www.freecutlist.app
+ * License: MIT
  */
 
 import { StockSheet, Part } from '../types';
